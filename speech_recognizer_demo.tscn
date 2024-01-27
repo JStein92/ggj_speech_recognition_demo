@@ -75,7 +75,7 @@ offset_top = 496.0
 offset_right = 705.0
 offset_bottom = 561.0
 action_mode = 0
-text = "Hold to Listen"
+text = "Start Recognition"
 
 [node name="MicrophoneStream" type="AudioStreamPlayer" parent="."]
 stream = SubResource("AudioStreamMicrophone_qiane")
